@@ -1,0 +1,11 @@
+{
+    "search" : {
+        "index" : ["test"],     
+        "field" : {
+            "searchField" : [
+                "test"],
+            "termsField" : ["test"],
+            "highlightField" : ["test"]
+        }    
+    }
+}

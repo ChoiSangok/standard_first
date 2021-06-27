@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "standarad_api",
+      "script": "./app.js",
+      "watch": true,
+      "exec_mode": "cluster",
+      "instance": 1
+    }
+  ]
+}

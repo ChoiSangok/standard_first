@@ -1,0 +1,9 @@
+{
+    "autocomplete":{
+        "index" : "test",
+        "field":{
+            "searchField" :["test"],
+            "highlightField" : ["test"]
+        }
+    }
+}
